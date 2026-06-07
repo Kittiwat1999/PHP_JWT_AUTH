@@ -1,0 +1,5 @@
+/mysql_data
+/backend/vendor/
+
+.env
+GEMINI.md
